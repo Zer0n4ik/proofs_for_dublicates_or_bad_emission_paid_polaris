@@ -1,0 +1,2205 @@
+{
+  "data": [
+    {
+      "metrics": null,
+      "hotkey": "5F1XEVg5ro82p3AwLEwgZ1K6KN9FTcy41w32Q9zj4urp12HB",
+      "miner_id": "DUbJdxqHSgnMxJlp2t7J",
+      "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5F1XEVg5ro82p3AwLEwgZ1K6KN9FTcy41w32Q9zj4urp12HB",
+        "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-08T14:07:28.491085",
+      "owner_firebase_uid": "8I64AIegr3Vwz1M2os3MulYlxml1",
+      "miner_uid": 222,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T14:07:28.491098",
+      "id": "02045bd0-c7ad-4d6b-9eb2-089ba8796b60"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5CmG6dKYbpU1DKVfmsSSciGs9K63CzR6SJv14mtPmqEC9vcx",
+      "miner_id": "KlmPyd3eRrYJPgAi6CYY",
+      "registration_time": "2025-07-15T10:27:54.594485",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5CmG6dKYbpU1DKVfmsSSciGs9K63CzR6SJv14mtPmqEC9vcx",
+        "coldkey": "5EpzMa1vL3P1PL2kME6i6YWg5keXGBsz2ZQSqu5GEWWMytgd",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5EpzMa1vL3P1PL2kME6i6YWg5keXGBsz2ZQSqu5GEWWMytgd",
+      "owner_firebase_uid": "19Abiok1OwfSV4C3SPNPZs8GVLx1",
+      "miner_uid": 202,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T10:27:54.594500",
+      "id": "02dea02a-a83b-4982-968a-288a44b71c23"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5Esqon9k7A73Aw58ZzGTspFG5kEyjx7nn2BtbpvFm6KhPhh8",
+      "miner_id": "eliH3kKoRmHnIy6Bcv9S",
+      "coldkey": "5E4RZK4uEFApNYyS4xneJCp9F2c2Js5rbVV2381TTLgSLuS4",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5Esqon9k7A73Aw58ZzGTspFG5kEyjx7nn2BtbpvFm6KhPhh8",
+        "coldkey": "5E4RZK4uEFApNYyS4xneJCp9F2c2Js5rbVV2381TTLgSLuS4",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-03T14:48:41.638120",
+      "owner_firebase_uid": "BICpavYkwcfYORw0GWwY8mFgCPA3",
+      "miner_uid": 4,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-03T14:48:41.638134",
+      "id": "060decc6-02d0-4040-ba31-722a681b33a3"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5FeNic3beZfxepe8vSaCTKsS3ENBC32PkDTe8Pm3i5zvKuAu",
+      "miner_id": "cyfMXdA72zB5n9GGwi47",
+      "registration_time": "2025-07-15T09:58:04.971803",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5FeNic3beZfxepe8vSaCTKsS3ENBC32PkDTe8Pm3i5zvKuAu",
+        "coldkey": "5HdFk56nBjJdBjyjddRCvqecMChRNcnX9hy1TnHNo5kJnHM4",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5HdFk56nBjJdBjyjddRCvqecMChRNcnX9hy1TnHNo5kJnHM4",
+      "owner_firebase_uid": "sEZdVoHgwGOeKYA3ljvv3IrAKhT2",
+      "miner_uid": 185,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T09:58:04.971815",
+      "id": "069a9315-9a77-4b94-aa9c-e4cc9d14e93c"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5G9NMZukE4B8PRJje3hMbUcrFbJU1nGc82ZdPep7VFV7vPyW",
+      "miner_id": "oVnQGHFaHxDvf4cjploj",
+      "coldkey": "5H97bDtiUih9AN87GcRxpougC7GgMvfHAdGDytRMVJqPPQFg",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5G9NMZukE4B8PRJje3hMbUcrFbJU1nGc82ZdPep7VFV7vPyW",
+        "coldkey": "5H97bDtiUih9AN87GcRxpougC7GgMvfHAdGDytRMVJqPPQFg",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-08T13:45:34.257298",
+      "owner_firebase_uid": "UJIN7QuTl1ZYziZNFoDP9PNV6z02",
+      "miner_uid": 29,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T13:45:34.257313",
+      "id": "0c28c999-0e88-4df6-8f80-7e2cf787d254"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5FX2S8eH3LTQNapnJxuWPPAZT84e1Fg6gpoFc5pK17BDhkHJ",
+      "miner_id": "53MHyzQR5vVQdPFPAL9c",
+      "coldkey": "5GWrsw7WoxMicjK6SysEWmaTYU3RbvdJLduzvf1vfiZi8ZCL",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5GWrsw7WoxMicjK6SysEWmaTYU3RbvdJLduzvf1vfiZi8ZCL",
+        "hotkey": "5FX2S8eH3LTQNapnJxuWPPAZT84e1Fg6gpoFc5pK17BDhkHJ",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-15T11:36:54.159562",
+      "owner_firebase_uid": "7TiSHtFv3BYd70zoMfeQYzukZM73",
+      "miner_uid": 87,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T11:36:54.159579",
+      "id": "0ce21971-8451-4852-80f7-f5049868956f"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5E1bAKgYiMwahFKgjG6XKNyH3tph4PSfkPpAHNSzKKLtD5yu",
+      "miner_id": "4CqXTwumvxwlpFmSmEWN",
+      "coldkey": "5CMGSFvP5A2UAunRzjaZHx5BDBYmYBm8nQNdW25uZNqX5sEi",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5CMGSFvP5A2UAunRzjaZHx5BDBYmYBm8nQNdW25uZNqX5sEi",
+        "hotkey": "5E1bAKgYiMwahFKgjG6XKNyH3tph4PSfkPpAHNSzKKLtD5yu",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-02T15:11:12.331409",
+      "owner_firebase_uid": "qQkDFxdc1MfB2Tb67jDyoRLkACG2",
+      "miner_uid": 50,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-02T15:11:12.331420",
+      "id": "0d523e26-ba46-436a-ad1a-b408002049c6"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5EyLNH62CfY8wY5diSfV712mttCjamPrj6eASBrHuEqKwizb",
+      "miner_id": "xBCoFP2llYFhXWHjZO6h",
+      "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5EyLNH62CfY8wY5diSfV712mttCjamPrj6eASBrHuEqKwizb",
+        "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-08T14:09:08.801071",
+      "owner_firebase_uid": "dZcDimnp4xQIqkkgL4ByTeghgUj2",
+      "miner_uid": 102,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T14:09:08.801087",
+      "id": "1640f3ae-b6c8-43da-8d59-3fa72f5254a3"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5FWGDKqMqiZCDmwUAdr7ihDrq7xG5eFqJnD8ND8wCoz3mjqE",
+      "miner_id": "GCKFUvYJoSdTrEJSFuP5",
+      "coldkey": "5CewemHCFC1XoAU58RZgYUe3uLssNxwZUJokz2H89wEN9fqK",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5CewemHCFC1XoAU58RZgYUe3uLssNxwZUJokz2H89wEN9fqK",
+        "hotkey": "5FWGDKqMqiZCDmwUAdr7ihDrq7xG5eFqJnD8ND8wCoz3mjqE",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-08T03:39:22.130660",
+      "owner_firebase_uid": "VdgOLpCS2CdkykiLpnVRUxMS1hh2",
+      "miner_uid": 182,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T03:39:22.130672",
+      "id": "1aa03467-a1a5-4f78-aa07-101370b55c5a"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5GYSdvApH5oRAWdSzCsqr4QopEigNAhKDxVFDvm1h1fqhjYu",
+      "miner_id": "MZOCCQ7aV2RFAuy05aBT",
+      "registration_time": "2025-07-04T09:51:22.302122",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5DPhKQ8sLgyNi94upnTJ6MFZGkBob9PwgMxueb5eMe4kYzr9",
+        "hotkey": "5GYSdvApH5oRAWdSzCsqr4QopEigNAhKDxVFDvm1h1fqhjYu",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5DPhKQ8sLgyNi94upnTJ6MFZGkBob9PwgMxueb5eMe4kYzr9",
+      "owner_firebase_uid": "7VVpThIehlPOORW7uiofhGEUnGW2",
+      "miner_uid": 115,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-04T09:51:22.302135",
+      "id": "1e1a7f17-7bfd-499a-a384-731c30fbf9f5"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5F7S4H9SkF6yAyhsKCLMTVmrX67xFYMGzXhDmkQy5xJZZYPe",
+      "miner_id": "zIdahOxbGBpFOcs6dRxu",
+      "registration_time": "2025-07-03T18:14:33.289369",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5G6E5NFWUBct9PUWnXk6UcLdG3T5GV5kGAYNNApWuGZ1yoyF",
+        "hotkey": "5F7S4H9SkF6yAyhsKCLMTVmrX67xFYMGzXhDmkQy5xJZZYPe",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5G6E5NFWUBct9PUWnXk6UcLdG3T5GV5kGAYNNApWuGZ1yoyF",
+      "owner_firebase_uid": "4fVgqKHRbwWp2xnBDwK1L3cmiOh2",
+      "miner_uid": 68,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-03T18:14:33.289382",
+      "id": "1eac7097-1c92-4b12-8092-9dcd7cf74bf7"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5GHCpsT2vCEmFdHcezPFeGPaasSZsNzaqPLg61Ho1TKTSTzw",
+      "miner_id": "TrzmQDuu8S8kClADpiO7",
+      "registration_time": "2025-07-05T08:14:29.342475",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5GHCpsT2vCEmFdHcezPFeGPaasSZsNzaqPLg61Ho1TKTSTzw",
+        "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+      "owner_firebase_uid": "oeUeCXuDn9W1c8CjeB4WVpZZYWF2",
+      "miner_uid": 253,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-05T08:14:29.342487",
+      "id": "1ebc57d4-9b0b-4a93-8cff-8de0c1c5c4e7"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5DwBCvrpdJ8CMxoibLzbGeisrs9e3qvmUWao2eFhKGa4EmZj",
+      "miner_id": "WrUrpr24jYOM5OdaPJDx",
+      "coldkey": "5Gsjvir9kbHQcAgSXUzYgAmkbpYKviozSLdBvKzo6MzvtNNc",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5Gsjvir9kbHQcAgSXUzYgAmkbpYKviozSLdBvKzo6MzvtNNc",
+        "hotkey": "5DwBCvrpdJ8CMxoibLzbGeisrs9e3qvmUWao2eFhKGa4EmZj",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-08T13:26:51.017145",
+      "owner_firebase_uid": "wbsX5vugY8gDD8ijqv6GyKrI2fJ3",
+      "miner_uid": 82,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T13:26:51.017156",
+      "id": "222f4f03-a2da-4e55-abe8-2a6421595d7c"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5FQxFct8WRf6ZT1piQJYaFfKfd75HTJoTyG5Js1is7vcLekX",
+      "miner_id": "kiugqVRTsoCCwD61nJtB",
+      "coldkey": "5CD7gmvf4bVtDc84drsoT6Jy3WGCPKYj67DexxYAYbXsmeCi",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5FQxFct8WRf6ZT1piQJYaFfKfd75HTJoTyG5Js1is7vcLekX",
+        "coldkey": "5CD7gmvf4bVtDc84drsoT6Jy3WGCPKYj67DexxYAYbXsmeCi",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-02T17:12:09.456399",
+      "owner_firebase_uid": "l59SsRRZY4RKziUkdGZ5lSVpa9y2",
+      "miner_uid": 5,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-02T17:12:09.456413",
+      "id": "22b674e8-2cbd-42c2-ae9d-868e9a2ebca2"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5HgR4tArf1AVCQzP6qmxNfN4JoFYX8W1vJsrtMcuRC4fy6Y4",
+      "miner_id": "vlIHICP5AorLWz0xF88I",
+      "coldkey": "5GWuWV6ghS6C59mnzCjbzvDfSBqL7FgDqFyvgZ7jTof6Ryzv",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5HgR4tArf1AVCQzP6qmxNfN4JoFYX8W1vJsrtMcuRC4fy6Y4",
+        "coldkey": "5GWuWV6ghS6C59mnzCjbzvDfSBqL7FgDqFyvgZ7jTof6Ryzv",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-08T13:20:45.378656",
+      "owner_firebase_uid": "2Da0XVyr8ncgnBjSZRYOD4TjDPj2",
+      "miner_uid": 40,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T13:20:45.378672",
+      "id": "26c1a56f-b36d-421d-811f-7b8a2d12f825"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5FNJnAJ5jVdsqCC6ZudnYbrNYhy9sJ3KSg9ZwqHgcBgUB8pJ",
+      "miner_id": "ZNJtCgZcXfKoqdtwLtav",
+      "coldkey": "5H97bDtiUih9AN87GcRxpougC7GgMvfHAdGDytRMVJqPPQFg",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5FNJnAJ5jVdsqCC6ZudnYbrNYhy9sJ3KSg9ZwqHgcBgUB8pJ",
+        "coldkey": "5H97bDtiUih9AN87GcRxpougC7GgMvfHAdGDytRMVJqPPQFg",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-08T13:47:39.024457",
+      "owner_firebase_uid": "KsujGAgpaxcGbFbgeQUzy62nBR12",
+      "miner_uid": 21,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T13:47:39.024470",
+      "id": "29f88cc5-b2a3-4f8a-b533-2e66097182c2"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5HbWL6PhvRhTLTkuAWbf6bqwXHSYL774BxnX3g4cCdbrovSb",
+      "miner_id": "w1zbeoGh2OPbUpuuMQQa",
+      "coldkey": "5C8Rdp3gdTgb7RzX5kpcixveFXV13TMQueokcKqLV75bcAsW",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5C8Rdp3gdTgb7RzX5kpcixveFXV13TMQueokcKqLV75bcAsW",
+        "hotkey": "5HbWL6PhvRhTLTkuAWbf6bqwXHSYL774BxnX3g4cCdbrovSb",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-02T14:56:37.832999",
+      "owner_firebase_uid": "xP05C01aKDfiYqfQXQCrkFVR1As2",
+      "miner_uid": 92,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-02T14:56:37.833010",
+      "id": "3039da6d-d642-4d3f-a261-ae14831a1dc7"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5HBuqVHxPEX6ymS1QTiqHyHZQDMLe9n8BHBNVY6VVWNp575K",
+      "miner_id": "X4JzusTfR8K4qRQHV0kN",
+      "coldkey": "5C8Rdp3gdTgb7RzX5kpcixveFXV13TMQueokcKqLV75bcAsW",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5C8Rdp3gdTgb7RzX5kpcixveFXV13TMQueokcKqLV75bcAsW",
+        "hotkey": "5HBuqVHxPEX6ymS1QTiqHyHZQDMLe9n8BHBNVY6VVWNp575K",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-02T14:57:26.900843",
+      "owner_firebase_uid": "Or0VQbUmZ4geUOjTZpVYQguDOap2",
+      "miner_uid": 94,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-02T14:57:26.900853",
+      "id": "36fd1541-b698-4bb5-a30c-4c0bcd343037"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5EsvrHadbgv9SdELoYspzhJvKnwoYQNqWqvxHoyrtuLA8z3b",
+      "miner_id": "x2Gw26qantWjUItGa5h3",
+      "registration_time": "2025-07-15T04:35:06.194689",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5EsvrHadbgv9SdELoYspzhJvKnwoYQNqWqvxHoyrtuLA8z3b",
+        "coldkey": "5CiFvgybF75xEBv5TtCk3fYTq3BRk8XhbidN3pkTN4BHEEZ8",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5CiFvgybF75xEBv5TtCk3fYTq3BRk8XhbidN3pkTN4BHEEZ8",
+      "owner_firebase_uid": "iU7Rvp76rZZZwKLt4tDDW8iCipH2",
+      "miner_uid": 143,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T04:35:06.194701",
+      "id": "3709c663-2f3f-4898-be36-0e074c58da0c"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5Eqq6BxDXsm7djP5agdSM7VsWjY41mFRvHVcGKmG6yTuiMzn",
+      "miner_id": "5BDfBbJfl9P2sOF29Wb9",
+      "coldkey": "5HdFk56nBjJdBjyjddRCvqecMChRNcnX9hy1TnHNo5kJnHM4",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5HdFk56nBjJdBjyjddRCvqecMChRNcnX9hy1TnHNo5kJnHM4",
+        "hotkey": "5Eqq6BxDXsm7djP5agdSM7VsWjY41mFRvHVcGKmG6yTuiMzn",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-15T09:14:49.382768",
+      "owner_firebase_uid": "815f6HLlFMca4L9rvJgRXiRFz4G3",
+      "miner_uid": 19,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T09:14:49.382782",
+      "id": "372be302-1003-4c42-93f5-3898dcb25185"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5EhcxU5BYeCRwGWuRXkbRgp6cQ7CrG41tnxka4PnWdVxGu6s",
+      "miner_id": "mYdhLANoG68ChbAp17fY",
+      "registration_time": "2025-07-03T17:02:14.251993",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5DtNRyTXi4UTqM3byxQw51PYCi3tHQ5zBzKFDGkrn5HbJUNF",
+        "hotkey": "5EhcxU5BYeCRwGWuRXkbRgp6cQ7CrG41tnxka4PnWdVxGu6s",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5DtNRyTXi4UTqM3byxQw51PYCi3tHQ5zBzKFDGkrn5HbJUNF",
+      "owner_firebase_uid": "8yRa8ZtOVXQTAbWlikCZ546tCdA2",
+      "miner_uid": 55,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-03T17:02:14.252004",
+      "id": "3ae98ecc-6e57-49ec-99ce-7ae57aa56ea3"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5HBR1WzLP644XeT5JARaG4JgyDzs7zDHti5WfrrH1oPYbis9",
+      "miner_id": "YNjMGByzcbEACjRxvr7N",
+      "registration_time": "2025-07-08T07:40:02.113151",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5HBR1WzLP644XeT5JARaG4JgyDzs7zDHti5WfrrH1oPYbis9",
+        "coldkey": "5DJPnGh95RErucUKoNgynpCue6y39sWK182D6PFrqfDVsC41",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5DJPnGh95RErucUKoNgynpCue6y39sWK182D6PFrqfDVsC41",
+      "owner_firebase_uid": "rXav4w2gRobbn6zFfdcAev5h3Vx2",
+      "miner_uid": 149,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T07:40:02.113179",
+      "id": "3b3e243c-4be6-46f0-95c7-eb020bd46a9a"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5CMWu8FrtANfkmddF7uQDwyRW6QNtrjnL19GwLCSGQwsH7MG",
+      "miner_id": "knkoCJd6xrRBnEKZq3AY",
+      "registration_time": "2025-07-15T10:30:31.907237",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5CMWu8FrtANfkmddF7uQDwyRW6QNtrjnL19GwLCSGQwsH7MG",
+        "coldkey": "5EpzMa1vL3P1PL2kME6i6YWg5keXGBsz2ZQSqu5GEWWMytgd",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5EpzMa1vL3P1PL2kME6i6YWg5keXGBsz2ZQSqu5GEWWMytgd",
+      "owner_firebase_uid": "uhlra9tAMEWUTe0oTBY3hi89sTn2",
+      "miner_uid": 242,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T10:30:31.907247",
+      "id": "3ce74e6b-d95e-4094-8e6e-8f736dd18716"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5ERQ9TNVGFiU19w6dh4cZjvgub6qTrfKkqfr1fZLAhHHbhxw",
+      "miner_id": "KvFmSiFHV5vmoPjjLZ8l",
+      "coldkey": "5EUxKmkd1LDtbP1FvRPb8V3wg4WvoSZrRoTE7pmaAV7L9Noa",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5ERQ9TNVGFiU19w6dh4cZjvgub6qTrfKkqfr1fZLAhHHbhxw",
+        "coldkey": "5EUxKmkd1LDtbP1FvRPb8V3wg4WvoSZrRoTE7pmaAV7L9Noa",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-02T19:06:50.491847",
+      "owner_firebase_uid": "vN6G7FMnaDfJ0v0EwUIqGCSYd4l1",
+      "miner_uid": 200,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-02T19:06:50.491862",
+      "id": "3e5adf11-b412-4fec-9b15-91e4a55f17fc"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5FA3isULMxUGBvmDWWhQRBDdQxSPsA4DL55p51NEeeis5UUs",
+      "miner_id": "4w9uStjqSE8rPmYfrclm",
+      "coldkey": "5EFXthkMUFnfrE1Vc48cmHsTDoXvUVYMZSt4fpsaYMCUcEcP",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5EFXthkMUFnfrE1Vc48cmHsTDoXvUVYMZSt4fpsaYMCUcEcP",
+        "hotkey": "5FA3isULMxUGBvmDWWhQRBDdQxSPsA4DL55p51NEeeis5UUs",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-03T09:43:37.037336",
+      "owner_firebase_uid": "aW8R0pg4mDR04KBO6hyHMZarRa62",
+      "miner_uid": 113,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-03T09:43:37.037348",
+      "id": "3edb0853-976c-49c4-a361-39399bab48ea"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5EUi2WfsBs2x4iA756ehyk7vYTArjDR39Et4A38voNrRMcXh",
+      "miner_id": "wKPnHaRFTVfhtJl25HBx",
+      "coldkey": "5D9upJQGE1ifEcZwdQdVbFFMjVuixe4hHi5k9YP33qJAv7jp",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5D9upJQGE1ifEcZwdQdVbFFMjVuixe4hHi5k9YP33qJAv7jp",
+        "hotkey": "5EUi2WfsBs2x4iA756ehyk7vYTArjDR39Et4A38voNrRMcXh",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-15T07:26:42.433235",
+      "owner_firebase_uid": "3OxlgTmojoczK5ySRNr15Z4ftT32",
+      "miner_uid": 52,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T07:26:42.433247",
+      "id": "405908b5-153b-4fe1-8d86-21d46732fbb7"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5FRmN6kESJYJ1JocRNwHyPSJt8Lq5cK23wcwtyuom1kwkvv4",
+      "miner_id": "Pa7wFJ3UX5VWC2H9RrPM",
+      "registration_time": "2025-07-08T11:35:25.452373",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5EFXthkMUFnfrE1Vc48cmHsTDoXvUVYMZSt4fpsaYMCUcEcP",
+        "hotkey": "5FRmN6kESJYJ1JocRNwHyPSJt8Lq5cK23wcwtyuom1kwkvv4",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5EFXthkMUFnfrE1Vc48cmHsTDoXvUVYMZSt4fpsaYMCUcEcP",
+      "owner_firebase_uid": "VMkONAD8d7PpAoNPMlSxFMumJyB2",
+      "miner_uid": 15,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T11:35:25.452384",
+      "id": "448b336d-cf3e-424b-977f-21cadfe205b3"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5EbxxdSzaFJjQaiqrpVPZ4r3Lggwaqz3a2fv2zaCXVgiLTjm",
+      "miner_id": "evjdtUmGMwN4TadGaKKl",
+      "coldkey": "5GTFmsmgcaBfAQ5fs4hNWMGFGZBrE9umhXHV5LGf4uEUd3MZ",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5GTFmsmgcaBfAQ5fs4hNWMGFGZBrE9umhXHV5LGf4uEUd3MZ",
+        "hotkey": "5EbxxdSzaFJjQaiqrpVPZ4r3Lggwaqz3a2fv2zaCXVgiLTjm",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-15T10:23:47.429584",
+      "owner_firebase_uid": "321qVg8MOKhzEbQWpcBrGYUImLg2",
+      "miner_uid": 179,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T10:23:47.429594",
+      "id": "4552cf5a-25c9-4aaf-9d89-8bef1cc86159"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5G1D2cVns9Mh6vFSqQWGSTNYpvJVjMxYPPSzpUgG8cSePhTt",
+      "miner_id": "UsOqXqVe13EcraLiooMU",
+      "registration_time": "2025-07-04T12:05:34.866601",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5DPhKQ8sLgyNi94upnTJ6MFZGkBob9PwgMxueb5eMe4kYzr9",
+        "hotkey": "5G1D2cVns9Mh6vFSqQWGSTNYpvJVjMxYPPSzpUgG8cSePhTt",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5DPhKQ8sLgyNi94upnTJ6MFZGkBob9PwgMxueb5eMe4kYzr9",
+      "owner_firebase_uid": "n6UBpVQ8jSQWdQMI23FErEQVodS2",
+      "miner_uid": 174,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-04T12:05:34.866614",
+      "id": "460d49d1-0c1c-4cf3-8987-5f0940d4758b"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5EHEar5MR3msy3cGR1ET1bfknLFX8PeJyWM6aEjYeg13J9tH",
+      "miner_id": "ilo5Df7NWP05817FonU7",
+      "registration_time": "2025-07-15T15:33:17.266365",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5EpzMa1vL3P1PL2kME6i6YWg5keXGBsz2ZQSqu5GEWWMytgd",
+        "hotkey": "5EHEar5MR3msy3cGR1ET1bfknLFX8PeJyWM6aEjYeg13J9tH",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5EpzMa1vL3P1PL2kME6i6YWg5keXGBsz2ZQSqu5GEWWMytgd",
+      "owner_firebase_uid": "tnvpkOyb7zO7Ln8aMDowwIyYWdj1",
+      "miner_uid": 217,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T15:33:17.266385",
+      "id": "485dd1bd-4d37-440d-bacf-08bc4a9047b7"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5HKRjWS3axiB78XPF7M89csDhom7mn7uc3YstkaboRxUkKLp",
+      "miner_id": "KQNkXl1mj6ly0WsMmEo7",
+      "coldkey": "5GTFmsmgcaBfAQ5fs4hNWMGFGZBrE9umhXHV5LGf4uEUd3MZ",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5GTFmsmgcaBfAQ5fs4hNWMGFGZBrE9umhXHV5LGf4uEUd3MZ",
+        "hotkey": "5HKRjWS3axiB78XPF7M89csDhom7mn7uc3YstkaboRxUkKLp",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-15T10:21:17.858738",
+      "owner_firebase_uid": "tZFF5Va6I4SHylFM7e6thXee6223",
+      "miner_uid": 35,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T10:21:17.858750",
+      "id": "49f9ef49-39ca-4f89-9fd9-a50e5dd55195"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5EtNbipRZNHkgHwEgG2KVYYrdLoLK52PvH5FzyeLXKkGbGN5",
+      "miner_id": "kugp8cvVvmO84QYEQxnQ",
+      "registration_time": "2025-07-07T19:23:35.860270",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5EtNbipRZNHkgHwEgG2KVYYrdLoLK52PvH5FzyeLXKkGbGN5",
+        "coldkey": "5DLNUopJy7THBQkXABLR2k9zS4wWn5g6Ly1PujPXnXvtCCty",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5DLNUopJy7THBQkXABLR2k9zS4wWn5g6Ly1PujPXnXvtCCty",
+      "owner_firebase_uid": "8RKL2yfOMwWULgoXljpbvuQm5Av1",
+      "miner_uid": 252,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-07T19:23:35.860284",
+      "id": "4b72c5de-54ef-43dc-a232-95369b165300"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5CJZvUbGrbCHHCUP2mfhuH3ZbtpZL5WV7QU7J5EWgr9LBXnb",
+      "miner_id": "Xa9hjW94e2XEAV2G5xMZ",
+      "registration_time": "2025-07-08T14:08:29.639209",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+        "hotkey": "5CJZvUbGrbCHHCUP2mfhuH3ZbtpZL5WV7QU7J5EWgr9LBXnb",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+      "owner_firebase_uid": "qzD3NdeBtwYMVl4OSLhrdHhFIe43",
+      "miner_uid": 58,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T14:08:29.639243",
+      "id": "4b9179fb-e666-4023-b260-3b41b94b5dc0"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5DFcakUkYgAXX552LH6G9psQZPFvXtDNbaSZ6Z7m4qtgKYYN",
+      "miner_id": "tDzglzeQj75NFjXILJqR",
+      "coldkey": "5EHtvuG3kimmGBoqz6FjWvQxxcpACat1sTWBtQhfEmvLvnku",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5DFcakUkYgAXX552LH6G9psQZPFvXtDNbaSZ6Z7m4qtgKYYN",
+        "coldkey": "5EHtvuG3kimmGBoqz6FjWvQxxcpACat1sTWBtQhfEmvLvnku",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-02T14:42:37.919645",
+      "owner_firebase_uid": "eZNG3ji8zXaIC1BwNv9LQOoGnik2",
+      "miner_uid": 210,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-02T14:42:37.919660",
+      "id": "4c7f608e-1064-4972-bd9f-08112299fbf5"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5GHCpsT2vCEmFdHcezPFeGPaasSZsNzaqPLg61Ho1TKTSTzw",
+      "miner_id": "v17lkhg3P4HAFteZDnHz",
+      "registration_time": "2025-07-08T14:07:56.208941",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5GHCpsT2vCEmFdHcezPFeGPaasSZsNzaqPLg61Ho1TKTSTzw",
+        "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+      "owner_firebase_uid": "3pev9t7XYZdpFPJXnQPqgjucxZy1",
+      "miner_uid": 253,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T14:07:56.208954",
+      "id": "57d47b2d-69ec-4746-a1b4-7b7d8709980d"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5DNwTWqZFzwUxswXrb5euzXb3Ys76D6QAbNReC4s7YTtQbec",
+      "miner_id": "Uy8h6IDv60omXih3f1kH",
+      "registration_time": "2025-07-08T14:16:19.195137",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5H97bDtiUih9AN87GcRxpougC7GgMvfHAdGDytRMVJqPPQFg",
+        "hotkey": "5DNwTWqZFzwUxswXrb5euzXb3Ys76D6QAbNReC4s7YTtQbec",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5H97bDtiUih9AN87GcRxpougC7GgMvfHAdGDytRMVJqPPQFg",
+      "owner_firebase_uid": "AgL6XnZ8OZgg394pXbKlGuzuaF03",
+      "miner_uid": 250,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T14:16:19.195149",
+      "id": "5930ee0e-f1de-4478-b9b1-560bcd3ee451"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5HiedrqG1srhTrZPnfX2oA6nRLgziMQFLJhLazQMk2eR66QA",
+      "miner_id": "8Xyk5QOuw3DQkkThqYt2",
+      "registration_time": "2025-07-03T07:26:15.646204",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5HiedrqG1srhTrZPnfX2oA6nRLgziMQFLJhLazQMk2eR66QA",
+        "coldkey": "5GHJFoeq6WMy7JWoAePcJGDEqYzfpjQ6SQ6txXZRfcZPJWwu",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5GHJFoeq6WMy7JWoAePcJGDEqYzfpjQ6SQ6txXZRfcZPJWwu",
+      "owner_firebase_uid": "tpdIw5XQ3oglQpKDaZ0t19s8q0v1",
+      "miner_uid": 133,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-03T07:26:15.646215",
+      "id": "5c7d9d6b-60f7-4a51-b429-710800b1f8a4"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5HbeTJjUzmCigUCdehfyUGAUYz5jTZMBD3UJkccNDX8V3v9v",
+      "miner_id": "zwdEkaCnvvucJHgZLqWM",
+      "registration_time": "2025-07-08T11:33:50.589562",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5HbeTJjUzmCigUCdehfyUGAUYz5jTZMBD3UJkccNDX8V3v9v",
+        "coldkey": "5EFXthkMUFnfrE1Vc48cmHsTDoXvUVYMZSt4fpsaYMCUcEcP",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5EFXthkMUFnfrE1Vc48cmHsTDoXvUVYMZSt4fpsaYMCUcEcP",
+      "owner_firebase_uid": "XnsXRqKZpfMI48Oz5nSzJvE2xzF2",
+      "miner_uid": 132,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T11:33:50.589575",
+      "id": "6017e7b3-6f05-4600-b4e3-ded7a9567101"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5DcyJn5bRWqoX9m1XAMJxTtFTbmhznJyM7k5frJCXU92Edzr",
+      "miner_id": "9iGGslc78VBoSpiVYNpc",
+      "coldkey": "5CMGSFvP5A2UAunRzjaZHx5BDBYmYBm8nQNdW25uZNqX5sEi",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5DcyJn5bRWqoX9m1XAMJxTtFTbmhznJyM7k5frJCXU92Edzr",
+        "coldkey": "5CMGSFvP5A2UAunRzjaZHx5BDBYmYBm8nQNdW25uZNqX5sEi",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-02T15:10:57.177968",
+      "owner_firebase_uid": "fWPYTzwiLFcGfzgitsakA8zx2eU2",
+      "miner_uid": 95,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-02T15:10:57.177982",
+      "id": "6371e783-94a1-48cf-bdf6-29d8fac20428"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5FZvprMoYfc6fcZKkj1wzKT1Qs1bbEDaYSSmP5bgdFcJAH74",
+      "miner_id": "SOhkUNdfcOB3BfgnfUFX",
+      "coldkey": "5GNckN2449awJ961e7vffnYZmwXowm4yok8DewBnV4G47rLm",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5FZvprMoYfc6fcZKkj1wzKT1Qs1bbEDaYSSmP5bgdFcJAH74",
+        "coldkey": "5GNckN2449awJ961e7vffnYZmwXowm4yok8DewBnV4G47rLm",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-02T15:08:55.599539",
+      "owner_firebase_uid": "T6Pvjimr2FWaKDduuYav3Pi3G962",
+      "miner_uid": 173,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-02T15:08:55.599551",
+      "id": "63c0f556-c962-48ed-a9a4-9d650c630171"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5DtSxwHN4FuiDf7QJSG4pzZQtS14NggtVAWcGgH8jQvEoQBU",
+      "miner_id": "3l70PdaAmH3Xdqo6up4Y",
+      "registration_time": "2025-07-15T13:45:54.792208",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5DtSxwHN4FuiDf7QJSG4pzZQtS14NggtVAWcGgH8jQvEoQBU",
+        "coldkey": "5GgPYyZvUX3U57zmrFa9uUZLY4qrxbpHAAhURnMoLXtnSiis",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5GgPYyZvUX3U57zmrFa9uUZLY4qrxbpHAAhURnMoLXtnSiis",
+      "owner_firebase_uid": "tvWM6dEyFWMoVFQhUbMukPYTFV33",
+      "miner_uid": 193,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T13:45:54.792224",
+      "id": "641adefb-189c-46b9-9716-947a750a87bd"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5CSa1rZAzh8Nf9nT9wMBghE6DPzTFoEdWZaRXD6mdVBkVJhw",
+      "miner_id": "Ffv10uV4R7JcdALr0zd6",
+      "registration_time": "2025-07-03T18:44:47.493790",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5CSa1rZAzh8Nf9nT9wMBghE6DPzTFoEdWZaRXD6mdVBkVJhw",
+        "coldkey": "5FyBy1yBnm1ZLoLGEskzXWLbsCuC9961fkLG1ZTs9DbcnpMB",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5FyBy1yBnm1ZLoLGEskzXWLbsCuC9961fkLG1ZTs9DbcnpMB",
+      "owner_firebase_uid": "cBDE9phulMd3llm8T0HfF5JXwgn2",
+      "miner_uid": 90,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-03T18:44:47.493804",
+      "id": "668f4267-581e-403c-9da6-bf86651965f7"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5EexknGcP9xxwWyGZoBpzZTDEbSwhtFXpRVNpkjWmn1kWM9E",
+      "miner_id": "OPLPgx09Bww4wHYBQKDn",
+      "coldkey": "5DjntZZ3JkdwzLkUNw99QgVkPntmzJFu8TSQxaHDef8egjeL",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5DjntZZ3JkdwzLkUNw99QgVkPntmzJFu8TSQxaHDef8egjeL",
+        "hotkey": "5EexknGcP9xxwWyGZoBpzZTDEbSwhtFXpRVNpkjWmn1kWM9E",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-15T11:05:29.967073",
+      "owner_firebase_uid": "aOZ4FWDbssg2gtjtheloDTcJGyZ2",
+      "miner_uid": 139,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T11:05:29.967086",
+      "id": "72598fd6-0e69-4f6e-b187-21d3ea88300d"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5CMBxXqUjsYXpY5DtZxjjdmxumyeqbxt3k7SL6rj9gjsboT1",
+      "miner_id": "Kn4AAgl7j4rJZBUCtFkS",
+      "coldkey": "5HdFk56nBjJdBjyjddRCvqecMChRNcnX9hy1TnHNo5kJnHM4",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5HdFk56nBjJdBjyjddRCvqecMChRNcnX9hy1TnHNo5kJnHM4",
+        "hotkey": "5CMBxXqUjsYXpY5DtZxjjdmxumyeqbxt3k7SL6rj9gjsboT1",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-15T10:14:42.526684",
+      "owner_firebase_uid": "2tjzNWAtiKdG5HhAJv5s32atY7l1",
+      "miner_uid": 209,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T10:14:42.526696",
+      "id": "726754f8-b887-481a-a464-17583261845b"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5DZgyaMf51yB1RzuEfvx358bm1gQkpibtaAaHEqCwUYUszqV",
+      "miner_id": "dPXVrQGiJPQ6eRdeVAgR",
+      "coldkey": "5EUxKmkd1LDtbP1FvRPb8V3wg4WvoSZrRoTE7pmaAV7L9Noa",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5EUxKmkd1LDtbP1FvRPb8V3wg4WvoSZrRoTE7pmaAV7L9Noa",
+        "hotkey": "5DZgyaMf51yB1RzuEfvx358bm1gQkpibtaAaHEqCwUYUszqV",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-02T19:12:20.292331",
+      "owner_firebase_uid": "pdSaJo339hU9g2wqCCth2mlv9kl1",
+      "miner_uid": 235,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-02T19:12:20.292358",
+      "id": "72e6487e-3f2a-454c-8bec-4aaceb5f2959"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5DRc5q8R92G9cFuvNZEuo4o3uX541LgCKkuxijUpF6ptn4Uy",
+      "miner_id": "RLVlqCAfdA4fIcBUT8zR",
+      "registration_time": "2025-07-07T17:48:14.489239",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5CiFY7BRdRhJ8NQVGmTBLwY9BJ7yc4p7vPYyqVB9TY8YPJFf",
+        "hotkey": "5DRc5q8R92G9cFuvNZEuo4o3uX541LgCKkuxijUpF6ptn4Uy",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5CiFY7BRdRhJ8NQVGmTBLwY9BJ7yc4p7vPYyqVB9TY8YPJFf",
+      "owner_firebase_uid": "sdmCnlXzokYemDz5a4rm8uD6uBc2",
+      "miner_uid": 7,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-07T17:48:14.489250",
+      "id": "73df6fd5-d0a6-4267-a8fc-217b2105bd06"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5CmJkikRTwbWhK7iZRKLP3UQbrkEDmE1bfzrcBvuiewuL9WB",
+      "miner_id": "EJWkC86GLNxf9M77xq6d",
+      "registration_time": "2025-07-15T13:45:10.152325",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5CmJkikRTwbWhK7iZRKLP3UQbrkEDmE1bfzrcBvuiewuL9WB",
+        "coldkey": "5GgPYyZvUX3U57zmrFa9uUZLY4qrxbpHAAhURnMoLXtnSiis",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5GgPYyZvUX3U57zmrFa9uUZLY4qrxbpHAAhURnMoLXtnSiis",
+      "owner_firebase_uid": "HjW91LwcNpfQpOdLyJwVmjTNW163",
+      "miner_uid": 100,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T13:45:10.152337",
+      "id": "74d7a313-0fad-482d-9f69-108e0acbf359"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5DWiuPGRYb9YKfQo5uUrtSjdXxTKYvJEzr4kPo8ZggqxbYQB",
+      "miner_id": "3j6K8b6yyoJAwGQFvXAy",
+      "coldkey": "5DPhKQ8sLgyNi94upnTJ6MFZGkBob9PwgMxueb5eMe4kYzr9",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5DPhKQ8sLgyNi94upnTJ6MFZGkBob9PwgMxueb5eMe4kYzr9",
+        "hotkey": "5DWiuPGRYb9YKfQo5uUrtSjdXxTKYvJEzr4kPo8ZggqxbYQB",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-04T08:41:42.150759",
+      "owner_firebase_uid": "shY5yBI170SC9Ub9ehOX3YaQNul2",
+      "miner_uid": 183,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-04T08:41:42.150772",
+      "id": "7b0b72ea-9c9a-419d-9a56-e71ec035a165"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5HQmM9iDzYcChkGs1esfgoQQgQUF1jwLAKoRfG5NsM6LorSU",
+      "miner_id": "2Yc2QzQvium9utzV3MF8",
+      "coldkey": "5FxEswykhi7nwMkKyFnZnpHCwmWs9kgrJQN7jvcf8MJ1HRtC",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5HQmM9iDzYcChkGs1esfgoQQgQUF1jwLAKoRfG5NsM6LorSU",
+        "coldkey": "5FxEswykhi7nwMkKyFnZnpHCwmWs9kgrJQN7jvcf8MJ1HRtC",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-03T01:54:34.889847",
+      "owner_firebase_uid": "G5U9BmTSssVzQfDdzA5d8xvSNBT2",
+      "miner_uid": 18,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-03T01:54:34.889873",
+      "id": "7d1007fe-34dc-4175-9275-59562e12dd95"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5HY2gvp9BAQk8PvaKE8Z31kmR9QmU5g1ExGAQg4cBvwbaZrY",
+      "miner_id": "yCQ44uDgAMDAKa1aKZiz",
+      "coldkey": "5Gb9BfX2EiFARkgMaY76XSYWCUKsPxpe8kEJvV2wqH3KaPoM",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5Gb9BfX2EiFARkgMaY76XSYWCUKsPxpe8kEJvV2wqH3KaPoM",
+        "hotkey": "5HY2gvp9BAQk8PvaKE8Z31kmR9QmU5g1ExGAQg4cBvwbaZrY",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-03T06:25:36.402839",
+      "owner_firebase_uid": "2EYDuMGrGLR0U50b64lOnL4hW123",
+      "miner_uid": 31,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-03T06:25:36.402850",
+      "id": "7d17a887-221f-4b4e-8c21-450885f7a32b"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5Df3HsxAGB7qRgNq4tyMJTaBDn1dFVmNaXn4gicn7vapQfoV",
+      "miner_id": "5DkyVIJ0g2oiKzktoqCK",
+      "registration_time": "2025-07-15T15:51:06.035249",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5EpzMa1vL3P1PL2kME6i6YWg5keXGBsz2ZQSqu5GEWWMytgd",
+        "hotkey": "5Df3HsxAGB7qRgNq4tyMJTaBDn1dFVmNaXn4gicn7vapQfoV",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5EpzMa1vL3P1PL2kME6i6YWg5keXGBsz2ZQSqu5GEWWMytgd",
+      "owner_firebase_uid": "HUxJomkNQCN4I1e1pN4ONwTUMVK2",
+      "miner_uid": 147,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T15:51:06.035259",
+      "id": "800af710-d3b7-4fe0-bd52-811055bcf83c"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5FUBdH2smD2w6TPjYy4gBNxWTTXrni6b7Sk5UJ1LVbJq2KGM",
+      "miner_id": "gGXRLy2hhFatuoRFmmpG",
+      "coldkey": "5EUxKmkd1LDtbP1FvRPb8V3wg4WvoSZrRoTE7pmaAV7L9Noa",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5EUxKmkd1LDtbP1FvRPb8V3wg4WvoSZrRoTE7pmaAV7L9Noa",
+        "hotkey": "5FUBdH2smD2w6TPjYy4gBNxWTTXrni6b7Sk5UJ1LVbJq2KGM",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-02T19:02:28.433710",
+      "owner_firebase_uid": "W1e9Vg4Ey1Tq4E0Jjw6EVDRkWq92",
+      "miner_uid": 112,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-02T19:02:28.433721",
+      "id": "8180cfde-512c-4c48-8e37-83955ea6583f"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5DXAhR2JS3KboZSQPjeb6kCDqmG4kmwEJ2U9ZxufPRo3M4ZP",
+      "miner_id": "H0Nq5eJ3flP68VRh0hXE",
+      "coldkey": "5CkDVP6nCDb8F5LaMcatik9bJtBcb1T2aX8wjwYNqz938BSU",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5DXAhR2JS3KboZSQPjeb6kCDqmG4kmwEJ2U9ZxufPRo3M4ZP",
+        "coldkey": "5CkDVP6nCDb8F5LaMcatik9bJtBcb1T2aX8wjwYNqz938BSU",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-08T12:44:53.699596",
+      "owner_firebase_uid": "GR22qvs7KEh1rIqrGzbyP7BKOA33",
+      "miner_uid": 88,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T12:44:53.699621",
+      "id": "81b017d0-c21c-4011-aa5c-2fa30f0d70f9"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5H43Se59DZk7iMUmt9u45aRDcCbuUzdGVGAUyqSa1ewd6Vdd",
+      "miner_id": "133Y4q5a8RkhRzhhGG2J",
+      "coldkey": "5GTFmsmgcaBfAQ5fs4hNWMGFGZBrE9umhXHV5LGf4uEUd3MZ",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5GTFmsmgcaBfAQ5fs4hNWMGFGZBrE9umhXHV5LGf4uEUd3MZ",
+        "hotkey": "5H43Se59DZk7iMUmt9u45aRDcCbuUzdGVGAUyqSa1ewd6Vdd",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-15T10:18:22.886383",
+      "owner_firebase_uid": "1jVe4z8nV7hlhbcP0QWKhsHpNfB2",
+      "miner_uid": 241,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T10:18:22.886398",
+      "id": "89e28abc-8cc9-4aa3-bf1e-770406ce39af"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5DtXgJ7ncQcz2Z2ZqpzZ8ztbqEodEDvukXLEAf76DqrFQAEU",
+      "miner_id": "LWApkjlQT1Yh8SRyLXBR",
+      "registration_time": "2025-07-05T19:40:25.653595",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5DtXgJ7ncQcz2Z2ZqpzZ8ztbqEodEDvukXLEAf76DqrFQAEU",
+        "coldkey": "5FpQd4NaVWJ7x5msaXTKqToQpfoatqZLJnDB7jq5krBH3xs5",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5FpQd4NaVWJ7x5msaXTKqToQpfoatqZLJnDB7jq5krBH3xs5",
+      "owner_firebase_uid": "Yu50sUZCwnek4PoEfMklgAfmhqj1",
+      "miner_uid": 9,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-05T19:40:25.653611",
+      "id": "8a3c7998-bb86-4cfc-a916-2cfba9116c5a"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5HYkHnZunSEVtp9bzxPcTGkjJZ3aKWpe38Z6zJ2S283t8Xgs",
+      "miner_id": "rkVonnnbADEFUx8kfFlR",
+      "coldkey": "5Gsjvir9kbHQcAgSXUzYgAmkbpYKviozSLdBvKzo6MzvtNNc",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5HYkHnZunSEVtp9bzxPcTGkjJZ3aKWpe38Z6zJ2S283t8Xgs",
+        "coldkey": "5Gsjvir9kbHQcAgSXUzYgAmkbpYKviozSLdBvKzo6MzvtNNc",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-08T13:29:20.011779",
+      "owner_firebase_uid": "R8MIAL3VG1Xz2CSrCJdOZIGuzYC2",
+      "miner_uid": 128,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T13:29:20.011793",
+      "id": "8ec1632c-5846-4287-9acb-8f82c61b01df"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5HKpg63DN8p3TtVHofPvwRAH1CZ6yKJdAdJXzQgz2LfJ3JW2",
+      "miner_id": "X3RPbl7CZEIoaR6Zb8sB",
+      "coldkey": "5CkDVP6nCDb8F5LaMcatik9bJtBcb1T2aX8wjwYNqz938BSU",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5HKpg63DN8p3TtVHofPvwRAH1CZ6yKJdAdJXzQgz2LfJ3JW2",
+        "coldkey": "5CkDVP6nCDb8F5LaMcatik9bJtBcb1T2aX8wjwYNqz938BSU",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-08T14:18:18.297596",
+      "owner_firebase_uid": "tg42pcWufpRStDO98qx6M8w5wet2",
+      "miner_uid": 6,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T14:18:18.297610",
+      "id": "95312116-6a60-4341-b792-b70368d7beeb"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5H1PhDwVgcHFXd9Pi5xwM8RcqpkcpUQeRA4E1MFEb3CigPYC",
+      "miner_id": "CtsMpWFqZfJ00Bkbtwco",
+      "registration_time": "2025-07-02T14:35:08.722398",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5HidMb7kSkfvyWHW6Gpe3d75QhVVPywBYRXXTrQJf6JFsrCk",
+        "hotkey": "5H1PhDwVgcHFXd9Pi5xwM8RcqpkcpUQeRA4E1MFEb3CigPYC",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5HidMb7kSkfvyWHW6Gpe3d75QhVVPywBYRXXTrQJf6JFsrCk",
+      "owner_firebase_uid": "iib7TbndsFhFSQKtBM4SEgoxY2G2",
+      "miner_uid": 52,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-02T14:35:08.722415",
+      "id": "962d70a9-7f87-44b6-8ccc-d06e8989aae4"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5EZhGev58qa35qnzLCsKi81hrGBdzRh5MQbBQMEHNW9PdgVA",
+      "miner_id": "T6SPzy6aS6lgltDeaDx2",
+      "coldkey": "5CD7gmvf4bVtDc84drsoT6Jy3WGCPKYj67DexxYAYbXsmeCi",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5CD7gmvf4bVtDc84drsoT6Jy3WGCPKYj67DexxYAYbXsmeCi",
+        "hotkey": "5EZhGev58qa35qnzLCsKi81hrGBdzRh5MQbBQMEHNW9PdgVA",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-02T17:12:46.952917",
+      "owner_firebase_uid": "bzQTgAR0uNYhKm57QfP0Gr1Vvs23",
+      "miner_uid": 2,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-02T17:12:46.952930",
+      "id": "a09e3038-f51d-42f5-b6a0-73ca5c0f3ab2"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5HBYUPCdLFYY9P7cfijowWUrZgAUEXh99sm8JCdXA7qD6WtG",
+      "miner_id": "ZB0JKwbQSkwj4WQFHour",
+      "registration_time": "2025-07-02T15:11:29.720197",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5CMGSFvP5A2UAunRzjaZHx5BDBYmYBm8nQNdW25uZNqX5sEi",
+        "hotkey": "5HBYUPCdLFYY9P7cfijowWUrZgAUEXh99sm8JCdXA7qD6WtG",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5CMGSFvP5A2UAunRzjaZHx5BDBYmYBm8nQNdW25uZNqX5sEi",
+      "owner_firebase_uid": "RJQ7Wn6xfhXsYZszauEUdqmQ0w73",
+      "miner_uid": 107,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-02T15:11:29.720210",
+      "id": "a31a8493-2ec0-4945-865d-48076755ebc1"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5FGzBNJxWo5eg5qaMnCC3UKurKUGj8cjjmtFnJRxbL5wKc8o",
+      "miner_id": "9ZE0HxCR3iZqf4ZBVW7a",
+      "registration_time": "2025-07-15T13:46:39.518253",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5GgPYyZvUX3U57zmrFa9uUZLY4qrxbpHAAhURnMoLXtnSiis",
+        "hotkey": "5FGzBNJxWo5eg5qaMnCC3UKurKUGj8cjjmtFnJRxbL5wKc8o",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5GgPYyZvUX3U57zmrFa9uUZLY4qrxbpHAAhURnMoLXtnSiis",
+      "owner_firebase_uid": "jk1oAshYASRmmJjulQqxz5V0BW32",
+      "miner_uid": 181,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T13:46:39.518266",
+      "id": "a4045fd0-55c1-495a-a77c-92fd1a5d0c63"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5GE6ToBN2kzbm9SF1nCLnHMZmQqJnHbVr9EHbKZCZbLzptoR",
+      "miner_id": "6R3A7YOHNozfprgydvhO",
+      "registration_time": "2025-07-04T20:07:38.416818",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5GE6ToBN2kzbm9SF1nCLnHMZmQqJnHbVr9EHbKZCZbLzptoR",
+        "coldkey": "5CnfqkcZr71R9kF8KMoUEvXQMvGicVAmnKyDthiegBz75P…",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5CnfqkcZr71R9kF8KMoUEvXQMvGicVAmnKyDthiegBz75P…",
+      "owner_firebase_uid": "KsS6vbtlx0cUH0QsblPvdlBI33Y2",
+      "miner_uid": 204,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-04T20:07:38.416831",
+      "id": "a47f55b2-6428-4bdf-a06a-efceeee5cf8f"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5He8hE7DBqGXK56c94rbHjQsW2EisX5j9A8jD9SHA7KSe7YN",
+      "miner_id": "MJAc64MMUVcWKgkkTFkO",
+      "registration_time": "2025-07-16T01:49:58.265576",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5Devis222uWaqoy7N3A9dJ2MDRXJtXLTyMUSZcJJtFfatyWd",
+        "hotkey": "5He8hE7DBqGXK56c94rbHjQsW2EisX5j9A8jD9SHA7KSe7YN",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5Devis222uWaqoy7N3A9dJ2MDRXJtXLTyMUSZcJJtFfatyWd",
+      "owner_firebase_uid": "PbQOFCh78af35jtmazszuXFPSwC3",
+      "miner_uid": 73,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-16T01:49:58.265584",
+      "id": "ab556504-a163-4cda-8463-adfb04bba7fa"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5GZKXuzojTgjS1ZahzyW1fFSdHdRTGhj7Ns1o5zYSthDBasw",
+      "miner_id": "FwgaOdpnhqJTs4pcmt6G",
+      "registration_time": "2025-07-15T09:48:53.441119",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5GZKXuzojTgjS1ZahzyW1fFSdHdRTGhj7Ns1o5zYSthDBasw",
+        "coldkey": "5HdFk56nBjJdBjyjddRCvqecMChRNcnX9hy1TnHNo5kJnHM4",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5HdFk56nBjJdBjyjddRCvqecMChRNcnX9hy1TnHNo5kJnHM4",
+      "owner_firebase_uid": "bEOXL6IhDIe0rUlYGrPtIUAhDsT2",
+      "miner_uid": 27,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T09:48:53.441132",
+      "id": "ad1e4f7d-74c4-4d2c-a8cf-4ddeee5a7e58"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5H1PhDwVgcHFXd9Pi5xwM8RcqpkcpUQeRA4E1MFEb3CigPYC",
+      "miner_id": "n7BV6mR2NtKGmhtT5ZTF",
+      "registration_time": "2025-07-15T04:28:40.381221",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5H1PhDwVgcHFXd9Pi5xwM8RcqpkcpUQeRA4E1MFEb3CigPYC",
+        "coldkey": "5HidMb7kSkfvyWHW6Gpe3d75QhVVPywBYRXXTrQJf6JFsrCk",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5HidMb7kSkfvyWHW6Gpe3d75QhVVPywBYRXXTrQJf6JFsrCk",
+      "owner_firebase_uid": "PZnFiV488BTiq5lrYaE8WEz0C8H3",
+      "miner_uid": 196,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T04:28:40.381233",
+      "id": "adffdc81-b607-48ed-9065-faff2d88def1"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5GHMFNNT7xAKFXWvft76SzLuqzAwQwyLaZpimKCAw3mobiXx",
+      "miner_id": "FgRlAHB72Y0YZyGjDNwo",
+      "registration_time": "2025-07-05T09:26:16.923585",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5GHMFNNT7xAKFXWvft76SzLuqzAwQwyLaZpimKCAw3mobiXx",
+        "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+      "owner_firebase_uid": "EcG9C49Ca8TYMqMYMjkwUmLbRPG3",
+      "miner_uid": 129,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-05T09:26:16.923597",
+      "id": "b0ae4091-b8e7-4583-9255-24b255f8cffc"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5Dcsq541K3dtQ82vKjkcywmvKaKenNkEtALjjdXVxmGtJgJ7",
+      "miner_id": "REa8eChdEEjWpfQ8aUQv",
+      "coldkey": "5D4zfsQr9Yh5Yhz9qPjDwqZXff4KxRBqaaygsx3i…",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5D4zfsQr9Yh5Yhz9qPjDwqZXff4KxRBqaaygsx3i…",
+        "hotkey": "5Dcsq541K3dtQ82vKjkcywmvKaKenNkEtALjjdXVxmGtJgJ7",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-05T08:14:35.380719",
+      "owner_firebase_uid": "RZa3smfrCoOB6hask58zIGlP1fF2",
+      "miner_uid": 70,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-05T08:14:35.380726",
+      "id": "b2c3abf1-53ba-4bb9-9c56-6686c59dddb9"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5Gx2bQjEgAoT3X8tx31V4GjmFR5HCwkCU7Nchrq9yFHVFNF3",
+      "miner_id": "0UKbVm52suvRMc0sgcX1",
+      "coldkey": "5DFyFRJWGzSEyDzed8JzM8hTDHLMWmGqaKEWxCeftaeheEz8",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5Gx2bQjEgAoT3X8tx31V4GjmFR5HCwkCU7Nchrq9yFHVFNF3",
+        "coldkey": "5DFyFRJWGzSEyDzed8JzM8hTDHLMWmGqaKEWxCeftaeheEz8",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-03T13:07:11.332024",
+      "owner_firebase_uid": "o7bTkc0p7qY60RFb8Mn16VOmIok1",
+      "miner_uid": 109,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-03T13:07:11.332036",
+      "id": "b306146d-8ef2-4c35-bc96-2e487081c8b4"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5Dnveua1jywdeYr2ejY8r1gRL7RyfAZL2YKYY2cEJ3d9ekJk",
+      "miner_id": "ZCTX8m80C45sTqYhPifu",
+      "coldkey": "5Cf9YAjeLwj7U5fmf6HEXEezFNzmnajdMRZ6PxEy5ZrqtvUy",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5Dnveua1jywdeYr2ejY8r1gRL7RyfAZL2YKYY2cEJ3d9ekJk",
+        "coldkey": "5Cf9YAjeLwj7U5fmf6HEXEezFNzmnajdMRZ6PxEy5ZrqtvUy",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-05T08:14:36.563403",
+      "owner_firebase_uid": "Vn8dxlVA8OOKTn5OH6qICL6EBtr2",
+      "miner_uid": 56,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-05T08:14:36.563416",
+      "id": "b4c76f88-68e2-4646-80b5-10efefcf14d8"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5HeKcmjKMDP8x4hHm1okxNN57yN51apkdXYMNYL93BASxCmY",
+      "miner_id": "H4L8Z3MwrIf2jj8d2tcV",
+      "coldkey": "5CewemHCFC1XoAU58RZgYUe3uLssNxwZUJokz2H89wEN9fqK",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5CewemHCFC1XoAU58RZgYUe3uLssNxwZUJokz2H89wEN9fqK",
+        "hotkey": "5HeKcmjKMDP8x4hHm1okxNN57yN51apkdXYMNYL93BASxCmY",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-08T03:36:40.849483",
+      "owner_firebase_uid": "667jGgE2OBeFGrLPUXh4WLm9p0j2",
+      "miner_uid": 78,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T03:36:40.849498",
+      "id": "b59c7150-c2dc-4c4a-b46f-0455e60a5e7c"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5DSBuGTMgeqaQQ6PidJEu8uvFW7SNsKtcwBcC1f7yK5t43FL",
+      "miner_id": "5xIJWH5Mn6XCEJl3jWFA",
+      "coldkey": "5HEeumawC96jRAzzh2HcMJvWW7LjfgmwAW3g1GCHuq1sZUNo",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5HEeumawC96jRAzzh2HcMJvWW7LjfgmwAW3g1GCHuq1sZUNo",
+        "hotkey": "5DSBuGTMgeqaQQ6PidJEu8uvFW7SNsKtcwBcC1f7yK5t43FL",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-04T20:22:00.111746",
+      "owner_firebase_uid": "NImML9uWHpeD5Q6zbYr69ppNxu63",
+      "miner_uid": 223,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-04T20:22:00.111758",
+      "id": "bd3de9b2-8f2f-48a6-8f64-b85af62d41b8"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5Cvb5hbFALQihf4ueDmxj64BxkHZUBWfykFAQogJp5GWT1ML",
+      "miner_id": "NRNpm3nC0aBBGNb4FvTQ",
+      "coldkey": "5FsSQaKG1cPvJk3jfvcdavtwFMVVhBeq3PHXARxBoKyKu2NZ",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5Cvb5hbFALQihf4ueDmxj64BxkHZUBWfykFAQogJp5GWT1ML",
+        "coldkey": "5FsSQaKG1cPvJk3jfvcdavtwFMVVhBeq3PHXARxBoKyKu2NZ",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-08T14:44:06.569402",
+      "owner_firebase_uid": "XrA40qC559MFH9DnNnyXROf600H3",
+      "miner_uid": 163,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T14:44:06.569414",
+      "id": "c03d49dc-fd5b-4674-879f-b78128ad919a"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5GHMFNNT7xAKFXWvft76SzLuqzAwQwyLaZpimKCAw3mobiXx",
+      "miner_id": "ARuUfFkTDKxl78TeYQWE",
+      "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5GHMFNNT7xAKFXWvft76SzLuqzAwQwyLaZpimKCAw3mobiXx",
+        "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-05T09:26:06.423113",
+      "owner_firebase_uid": "GnzRVsQ0nZf3Pf5jFnEA0MS3r6r2",
+      "miner_uid": 129,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-05T09:26:06.423121",
+      "id": "c03f94ef-ca71-43e6-81f7-4ae3a23c194e"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5HY9yzjpFCqMNqdQLMKgeinTyAUTSokF8MNrFPKdFTHfWquQ",
+      "miner_id": "1K8XcHFeqRptVZfkXqj3",
+      "coldkey": "5HKaFufGgUCvRDdxhVWvTeyxtbGJnYze3nsSThRj8NA42yi7",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5HY9yzjpFCqMNqdQLMKgeinTyAUTSokF8MNrFPKdFTHfWquQ",
+        "coldkey": "5HKaFufGgUCvRDdxhVWvTeyxtbGJnYze3nsSThRj8NA42yi7",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-03T14:22:43.627821",
+      "owner_firebase_uid": "54u6QAofvyVyWCqGIXpfs8qwQy73",
+      "miner_uid": 54,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-03T14:22:43.627835",
+      "id": "c10bf61b-7ba8-41cf-8600-c63aab56ff98"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5F1XEVg5ro82p3AwLEwgZ1K6KN9FTcy41w32Q9zj4urp12HB",
+      "miner_id": "JzhMkXLI12W5KYHDXKqs",
+      "registration_time": "2025-07-05T08:14:29.790719",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+        "hotkey": "5F1XEVg5ro82p3AwLEwgZ1K6KN9FTcy41w32Q9zj4urp12HB",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+      "owner_firebase_uid": "gmrfTN81gGUxTk955mswsqA2kr03",
+      "miner_uid": 222,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-05T08:14:29.790730",
+      "id": "c1650270-b4f3-4be0-877a-ff5dd77f5987"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5CfFDdx9b3Hr9r4MbWybQpoNztPRa4ZRo9yjK9uXATzm5zXy",
+      "miner_id": "l4AXY9QljBjtOEr1kuHQ",
+      "coldkey": "5DPhKQ8sLgyNi94upnTJ6MFZGkBob9PwgMxueb5eMe4kYzr9",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5CfFDdx9b3Hr9r4MbWybQpoNztPRa4ZRo9yjK9uXATzm5zXy",
+        "coldkey": "5DPhKQ8sLgyNi94upnTJ6MFZGkBob9PwgMxueb5eMe4kYzr9",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-03T14:03:07.155531",
+      "owner_firebase_uid": "QV3sS0ZhixNrAVcMwwjGHoxAGwx2",
+      "miner_uid": 42,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-03T14:03:07.155541",
+      "id": "c21d7e0d-e9a6-48e8-b0d6-21656d9b989d"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5FTY3PHud37nXzDgfETSV5gbRRjH1akh9LfDZp2AnKNpuqQf",
+      "miner_id": "kLNUiNKY4cKgclcOiP9X",
+      "registration_time": "2025-07-08T13:22:31.669292",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5FTY3PHud37nXzDgfETSV5gbRRjH1akh9LfDZp2AnKNpuqQf",
+        "coldkey": "5GWuWV6ghS6C59mnzCjbzvDfSBqL7FgDqFyvgZ7jTof6Ryzv",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5GWuWV6ghS6C59mnzCjbzvDfSBqL7FgDqFyvgZ7jTof6Ryzv",
+      "owner_firebase_uid": "fJYdwoB6LocHTTGCsUCVIX87ebk2",
+      "miner_uid": 236,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T13:22:31.669305",
+      "id": "c541c0b3-aee5-446e-913f-3ec70c6be4e4"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5Gp5Tq29yS6Muwk931cjgMhD7rxcNPmafgJVUqvHfQS7qYK8",
+      "miner_id": "k9JbQ91GlUqKf6eFRvNj",
+      "registration_time": "2025-07-08T13:50:04.932865",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5Gp5Tq29yS6Muwk931cjgMhD7rxcNPmafgJVUqvHfQS7qYK8",
+        "coldkey": "5H97bDtiUih9AN87GcRxpougC7GgMvfHAdGDytRMVJqPPQFg",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5H97bDtiUih9AN87GcRxpougC7GgMvfHAdGDytRMVJqPPQFg",
+      "owner_firebase_uid": "8Wg7Ca3MCWVdMVy80GvFUqDqazg1",
+      "miner_uid": 20,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T13:50:04.932891",
+      "id": "c6fa6f45-eb13-418d-9dad-e59d17399648"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5FWCjC6xhGR5okugLc95yUVdTL9aAiYCAKyagrdDmYC8RxXT",
+      "miner_id": "eKihgJ93loZKg65ZAMue",
+      "registration_time": "2025-07-04T20:02:02.128653",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5CnfqkcZr71R9kF8KMoUEvXQMvGicVAmnKyDthiegBz75Pjb",
+        "hotkey": "5FWCjC6xhGR5okugLc95yUVdTL9aAiYCAKyagrdDmYC8RxXT",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5CnfqkcZr71R9kF8KMoUEvXQMvGicVAmnKyDthiegBz75Pjb",
+      "owner_firebase_uid": "TtSs02usnvVoIbPonb6qIQzJVPn2",
+      "miner_uid": 30,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-04T20:02:02.128665",
+      "id": "c9576f41-6d8a-415d-99d7-d2c93f41a7f9"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5DWtQVYJ9a21FuGeizQivfRQXuWkT7ZWFBpmmgTrL5XoTQ6Y",
+      "miner_id": "Sb7Dkhyvf2kgmRRa2Qox",
+      "registration_time": "2025-07-05T08:14:29.462352",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+        "hotkey": "5DWtQVYJ9a21FuGeizQivfRQXuWkT7ZWFBpmmgTrL5XoTQ6Y",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+      "owner_firebase_uid": "JSGdXqpJyrh7pDu54olPC4FHwQo1",
+      "miner_uid": 156,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-05T08:14:29.462365",
+      "id": "cc298fa2-2245-4a0c-b15c-304027c8018e"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5FEj53cj2zVCRbCsXweHhr6MWH2Vyqtzn8vtyLCsFXYq3qTu",
+      "miner_id": "EV5SDu6rfqZ6sjVHyLBQ",
+      "registration_time": "2025-07-04T19:57:55.066197",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5GqLDh4D5pf1h4osc9H8WvLYxRzcoMTmhKfcPf7zJszygfAW",
+        "hotkey": "5FEj53cj2zVCRbCsXweHhr6MWH2Vyqtzn8vtyLCsFXYq3qTu",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5GqLDh4D5pf1h4osc9H8WvLYxRzcoMTmhKfcPf7zJszygfAW",
+      "owner_firebase_uid": "KzZXpc472SPUvmSkV3sK8hFkItk2",
+      "miner_uid": 74,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-04T19:57:55.066228",
+      "id": "ce3f6321-8fc5-486a-b830-04602a459b63"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5HN319wAGuP611KzZPVJ679NGumo8qEwgTTLZEob8xh6fGPM",
+      "miner_id": "Dyyxj2XnH4dB8TntpLLB",
+      "coldkey": "5FsSQaKG1cPvJk3jfvcdavtwFMVVhBeq3PHXARxBoKyKu2NZ",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5FsSQaKG1cPvJk3jfvcdavtwFMVVhBeq3PHXARxBoKyKu2NZ",
+        "hotkey": "5HN319wAGuP611KzZPVJ679NGumo8qEwgTTLZEob8xh6fGPM",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-04T13:56:03.959383",
+      "owner_firebase_uid": "0YamgrIC3Dc5fy8bcXKnj1D6iJv2",
+      "miner_uid": 191,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-04T13:56:03.959393",
+      "id": "ce46f57b-7a27-4cba-9767-3651e9b33ecb"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5GQrxcycD4ZKqxxy9d9ACxP7bKZxNhtg6soB1TYNQkTRd2vi",
+      "miner_id": "IEmEt45B50gMZjCR0esj",
+      "coldkey": "5CMGSFvP5A2UAunRzjaZHx5BDBYmYBm8nQNdW25uZNqX5sEi",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5CMGSFvP5A2UAunRzjaZHx5BDBYmYBm8nQNdW25uZNqX5sEi",
+        "hotkey": "5GQrxcycD4ZKqxxy9d9ACxP7bKZxNhtg6soB1TYNQkTRd2vi",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-02T15:10:42.055022",
+      "owner_firebase_uid": "70Hu9GvRmJZBXDRBoCxrixX8C3i2",
+      "miner_uid": 85,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-02T15:10:42.055036",
+      "id": "ce946712-ffae-4154-9420-0115845c026d"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5G4bPAQ2Bv3vafCFfLQZDfz1KLk3Q6MHZakZdztQpw7fSejy",
+      "miner_id": "UO174F3G3oLJ9ZpV6L8c",
+      "coldkey": "5GQuG29qpYxKWDXqmJGsfrJjtzon9M7DLZ6RB1rfo2HmQkZ6",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5GQuG29qpYxKWDXqmJGsfrJjtzon9M7DLZ6RB1rfo2HmQkZ6",
+        "hotkey": "5G4bPAQ2Bv3vafCFfLQZDfz1KLk3Q6MHZakZdztQpw7fSejy",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-15T06:11:48.054485",
+      "owner_firebase_uid": "OahoFrL2poRISYGk6FiZLIngQv22",
+      "miner_uid": 146,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T06:11:48.054497",
+      "id": "d320388f-43d5-4ed4-899a-d5e301cab9dd"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5CtBwKNBnVKWsy9zNuaVxY8D5js356aYtMoSuA2u7REBWtyE",
+      "miner_id": "dmlJwGkOWgpIg3ToUu0U",
+      "coldkey": "5HdFk56nBjJdBjyjddRCvqecMChRNcnX9hy1TnHNo5kJnHM4",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5HdFk56nBjJdBjyjddRCvqecMChRNcnX9hy1TnHNo5kJnHM4",
+        "hotkey": "5CtBwKNBnVKWsy9zNuaVxY8D5js356aYtMoSuA2u7REBWtyE",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-15T09:54:02.402352",
+      "owner_firebase_uid": "IQT0vd2AYZTOTuSGZNN24CnLG3O2",
+      "miner_uid": 151,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T09:54:02.402366",
+      "id": "d898fb78-350f-4e3c-9ae8-3b71c91cf038"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5HHaNqnJrbuwxXmgMEeDS9zXQ9EiDZ2Q6uhmQwMhHA1rQpgA",
+      "miner_id": "GfQnedKEgfYBUipzH87J",
+      "coldkey": "5H97bDtiUih9AN87GcRxpougC7GgMvfHAdGDytRMVJqPPQFg",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5HHaNqnJrbuwxXmgMEeDS9zXQ9EiDZ2Q6uhmQwMhHA1rQpgA",
+        "coldkey": "5H97bDtiUih9AN87GcRxpougC7GgMvfHAdGDytRMVJqPPQFg",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-08T14:14:03.342292",
+      "owner_firebase_uid": "oKyvwz4XkNVe8cUtUZxQuNUAMUA2",
+      "miner_uid": 131,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T14:14:03.342307",
+      "id": "d9081acc-1894-4692-8da2-5ed062a2d370"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5C5kjSYkFShUa7WTpvVKUmKayaTp1tKJQRKVwd56aCWy3cx2",
+      "miner_id": "aLpoO0aMIJ4tT4NxyOoR",
+      "registration_time": "2025-07-03T14:34:39.600820",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5GTYre3DCVP4tUgyihsNjcFWZCvbJLmhp2fqijXHExpE1N3k",
+        "hotkey": "5C5kjSYkFShUa7WTpvVKUmKayaTp1tKJQRKVwd56aCWy3cx2",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5GTYre3DCVP4tUgyihsNjcFWZCvbJLmhp2fqijXHExpE1N3k",
+      "owner_firebase_uid": "eXuEUwny2lOOe6PXBRffD1AYMZd2",
+      "miner_uid": 238,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-03T14:34:39.600829",
+      "id": "daef58ad-a004-4cd9-901c-f858ed2aa481"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5EciyhWYjPZShzaMYWtqUGzHbf2abT3JtX1pLXhpQURrUcy9",
+      "miner_id": "5vFDnqvCmdEOpzkLuZmD",
+      "registration_time": "2025-07-15T10:07:54.704649",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5EciyhWYjPZShzaMYWtqUGzHbf2abT3JtX1pLXhpQURrUcy9",
+        "coldkey": "5GTFmsmgcaBfAQ5fs4hNWMGFGZBrE9umhXHV5LGf4uEUd3MZ",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5GTFmsmgcaBfAQ5fs4hNWMGFGZBrE9umhXHV5LGf4uEUd3MZ",
+      "owner_firebase_uid": "IZyEEus5LsgsCSj8AxMvfPPYVh72",
+      "miner_uid": 240,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T10:07:54.704666",
+      "id": "ded35794-6b55-4830-8f99-f5da5534f81a"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5CS17HksxniooXZTsxK3Xwtj23RsCo5ktMAg6EmprPKdGvev",
+      "miner_id": "CyJw2UuzU1YBODsF6Xji",
+      "coldkey": "5EpzMa1vL3P1PL2kME6i6YWg5keXGBsz2ZQSqu5GEWWMytgd",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5EpzMa1vL3P1PL2kME6i6YWg5keXGBsz2ZQSqu5GEWWMytgd",
+        "hotkey": "5CS17HksxniooXZTsxK3Xwtj23RsCo5ktMAg6EmprPKdGvev",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-15T15:47:41.604651",
+      "owner_firebase_uid": "IcvnUh9x3TcGcv2KrH5SarTKwyL2",
+      "miner_uid": 134,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T15:47:41.604665",
+      "id": "e115c862-e207-41dd-a289-a514ff0184d4"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5FZWgqG347Z3EoLkErv1H4ary9nb3hG9h7vekZJvJEivySha",
+      "miner_id": "VVTz0w06yqXRxrJIAEvB",
+      "registration_time": "2025-07-07T01:55:02.003607",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5FsSQaKG1cPvJk3jfvcdavtwFMVVhBeq3PHXARxBoKyKu2NZ",
+        "hotkey": "5FZWgqG347Z3EoLkErv1H4ary9nb3hG9h7vekZJvJEivySha",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5FsSQaKG1cPvJk3jfvcdavtwFMVVhBeq3PHXARxBoKyKu2NZ",
+      "owner_firebase_uid": "14PgjrazWgQexBONFWeWFJcAbq22",
+      "miner_uid": 134,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-07T01:55:02.003619",
+      "id": "e152ae80-86c2-4389-9ac3-0f4bf952ae4a"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5EyLNH62CfY8wY5diSfV712mttCjamPrj6eASBrHuEqKwizb",
+      "miner_id": "S3GaHv5M8vbzDhBs0nr0",
+      "registration_time": "2025-07-05T08:14:30.812570",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+        "hotkey": "5EyLNH62CfY8wY5diSfV712mttCjamPrj6eASBrHuEqKwizb",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+      "owner_firebase_uid": "tdxOLKxVpFcTfLokLPCO6onPnaf2",
+      "miner_uid": 102,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-05T08:14:30.812608",
+      "id": "e5487c84-5df6-48c4-b0c7-3e22b3d422f8"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5ELkvPVUiXnWkvopDVHXYzjh7mRYE3Kr78d7Jee5jRuuAPt2",
+      "miner_id": "4nVaxoktngizh29WjAEI",
+      "coldkey": "5C8Rdp3gdTgb7RzX5kpcixveFXV13TMQueokcKqLV75bcAsW",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5ELkvPVUiXnWkvopDVHXYzjh7mRYE3Kr78d7Jee5jRuuAPt2",
+        "coldkey": "5C8Rdp3gdTgb7RzX5kpcixveFXV13TMQueokcKqLV75bcAsW",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-02T14:58:12.639269",
+      "owner_firebase_uid": "2mCl0qoXakWAprkM4WpB2xBVVw92",
+      "miner_uid": 124,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-02T14:58:12.639282",
+      "id": "e7a34e11-a8f3-46d0-85ec-4864adb50cb1"
+    },
+    {
+      "metrics": null,
+      "hotkey": "census abuse tattoo assault vault insect gather tuition joy smooth possible relief",
+      "miner_id": "cpE9TQDknMKb7dPwH5Rt",
+      "registration_time": "2025-07-04T16:21:50.725926",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5EuvnbZ3b9Q6tXebY5RBw7BxvyFYVe787yqQRncLRJFZkEgE",
+        "hotkey": "census abuse tattoo assault vault insect gather tuition joy smooth possible relief",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5EuvnbZ3b9Q6tXebY5RBw7BxvyFYVe787yqQRncLRJFZkEgE",
+      "owner_firebase_uid": "x2LxjHkJ8mc1NwhYEt6z5jldWnG2",
+      "miner_uid": 35,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-04T16:21:50.725939",
+      "id": "e90dea27-e330-46a4-8f8b-56265e9f9f16"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5DAuqyVh8W4jnkuVkkfKpZpr6XsGkcw6MQCF5NaZJRx25czx",
+      "miner_id": "SJOFFubFQMmYSq6EnBol",
+      "registration_time": "2025-07-02T17:27:17.158765",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5GmoBVWnqFqBK1sPbR5vFH7rLUMvQWXuHu6qpDUVXk6HeAR9",
+        "hotkey": "5DAuqyVh8W4jnkuVkkfKpZpr6XsGkcw6MQCF5NaZJRx25czx",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5GmoBVWnqFqBK1sPbR5vFH7rLUMvQWXuHu6qpDUVXk6HeAR9",
+      "owner_firebase_uid": "N5XHZt6IkaNa54382UrLcMCBKWA3",
+      "miner_uid": 136,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-02T17:27:17.158779",
+      "id": "ea66c433-31d0-4b76-8abb-bcced655b2ca"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5GpQWXEafpCn7kvmRFb3TXjhiTNr2bVkops5HQ5C8teht7zK",
+      "miner_id": "osiUbDQHA93KvTzfLw4w",
+      "registration_time": "2025-07-15T10:25:44.502679",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5GpQWXEafpCn7kvmRFb3TXjhiTNr2bVkops5HQ5C8teht7zK",
+        "coldkey": "5GTFmsmgcaBfAQ5fs4hNWMGFGZBrE9umhXHV5LGf4uEUd3MZ",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5GTFmsmgcaBfAQ5fs4hNWMGFGZBrE9umhXHV5LGf4uEUd3MZ",
+      "owner_firebase_uid": "qwTrGieyrxTtvpoyQn4wjmpoaKc2",
+      "miner_uid": 26,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T10:25:44.502691",
+      "id": "ee18d6f0-bd8e-46d4-bf70-a0bdb9dcded0"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5EEnMhxfRzyisu51wvFwxE3DADM9jar2JdAVkFVG7MdyRVyn",
+      "miner_id": "NzzjLYO07dMfdswkYt3G",
+      "coldkey": "5H18z6bqrddz3DfaMf36naJMopLRsdkt8ZCnnJkTGupoCQje",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5EEnMhxfRzyisu51wvFwxE3DADM9jar2JdAVkFVG7MdyRVyn",
+        "coldkey": "5H18z6bqrddz3DfaMf36naJMopLRsdkt8ZCnnJkTGupoCQje",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-15T18:41:56.913103",
+      "owner_firebase_uid": "ET9ccSXowEdK2rR3A0nwWh2BOxI2",
+      "miner_uid": 111,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-15T18:41:56.913119",
+      "id": "ee282acd-bdcf-4771-a587-1da8c77b2bd8"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5HbQhDDekiULotuvHU4ddbCpRXnkzmmR47p72H6VxfvcPNXF",
+      "miner_id": "rrlh3XWPz9D3Nx8s9xli",
+      "registration_time": "2025-07-08T12:36:49.828271",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5HbQhDDekiULotuvHU4ddbCpRXnkzmmR47p72H6VxfvcPNXF",
+        "coldkey": "5CkDVP6nCDb8F5LaMcatik9bJtBcb1T2aX8wjwYNqz938BSU",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5CkDVP6nCDb8F5LaMcatik9bJtBcb1T2aX8wjwYNqz938BSU",
+      "owner_firebase_uid": "TrD2D5JqlRMzbOwkWRYfOwCSFem1",
+      "miner_uid": 118,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T12:36:49.828283",
+      "id": "ee518e8e-3f38-4ac1-90a9-cf2346778964"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5GvRe883FDW2XsNH8eS5GDEqSuxj2ecb2S7SeAgKDKLEh3k7",
+      "miner_id": "0MC41woFCAjzUoJDNGCI",
+      "registration_time": "2025-07-08T13:21:52.067276",
+      "network_info": {
+        "subnet_uid": 49,
+        "coldkey": "5GWuWV6ghS6C59mnzCjbzvDfSBqL7FgDqFyvgZ7jTof6Ryzv",
+        "hotkey": "5GvRe883FDW2XsNH8eS5GDEqSuxj2ecb2S7SeAgKDKLEh3k7",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5GWuWV6ghS6C59mnzCjbzvDfSBqL7FgDqFyvgZ7jTof6Ryzv",
+      "owner_firebase_uid": "BdnD2XspYNfLiI67X0k0tk3h8Ab2",
+      "miner_uid": 122,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T13:21:52.067288",
+      "id": "f071b3de-91cf-48f1-8020-d6da0415d88e"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5HYuqcTJySkTtxDXZA1Lt9Vam6S6FszTHWswoY85rNmboV7A",
+      "miner_id": "SaoSju22pKPvI7Lw3FJk",
+      "coldkey": "5HY7kHeucAXxJA79zQ3GibLVKuyZCg6ZJ3V4tbqFzdqCVcrh",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5HYuqcTJySkTtxDXZA1Lt9Vam6S6FszTHWswoY85rNmboV7A",
+        "coldkey": "5HY7kHeucAXxJA79zQ3GibLVKuyZCg6ZJ3V4tbqFzdqCVcrh",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-03T14:16:47.011073",
+      "owner_firebase_uid": "5D037OgXMWMyh7gWttpeWuvs1fs2",
+      "miner_uid": 205,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-03T14:16:47.011083",
+      "id": "f2bc5a00-aef7-4f57-a123-88c77d86a3d6"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5CXqWpJMkxEDPJDi91kEh6SJMnB3wtMv6S6FzNh7aAcADAE8",
+      "miner_id": "adrdYqAjqzzmiyityeFF",
+      "coldkey": "5CkDVP6nCDb8F5LaMcatik9bJtBcb1T2aX8wjwYNqz938BSU",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5CXqWpJMkxEDPJDi91kEh6SJMnB3wtMv6S6FzNh7aAcADAE8",
+        "coldkey": "5CkDVP6nCDb8F5LaMcatik9bJtBcb1T2aX8wjwYNqz938BSU",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-08T12:47:04.021676",
+      "owner_firebase_uid": "21umJQr0uJVHUpAjIwpw5DinRdh1",
+      "miner_uid": 237,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T12:47:04.021691",
+      "id": "f5cf3baf-4ad6-45b3-a47c-7cec95d92018"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5Fjma4UJB74Y45t4vSghdhDEpfDNJNBZT61PzTtoCjQH2PJa",
+      "miner_id": "pdZN4mhJa0SR6HjF3ifg",
+      "coldkey": "5CkDVP6nCDb8F5LaMcatik9bJtBcb1T2aX8wjwYNqz938BSU",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5Fjma4UJB74Y45t4vSghdhDEpfDNJNBZT61PzTtoCjQH2PJa",
+        "coldkey": "5CkDVP6nCDb8F5LaMcatik9bJtBcb1T2aX8wjwYNqz938BSU",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-08T12:39:52.794253",
+      "owner_firebase_uid": "ElmOtYOvKCR7nTCzR1vvh84nSlN2",
+      "miner_uid": 125,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T12:39:52.794262",
+      "id": "fcdd8428-aa7d-424a-8e5d-308792afff81"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5CJZvUbGrbCHHCUP2mfhuH3ZbtpZL5WV7QU7J5EWgr9LBXnb",
+      "miner_id": "AfVpOhDaWH0IE6eye6ZA",
+      "registration_time": "2025-07-05T08:14:30.873396",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5CJZvUbGrbCHHCUP2mfhuH3ZbtpZL5WV7QU7J5EWgr9LBXnb",
+        "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+      "owner_firebase_uid": "WzEwHqWOE3X2z8RTjipgnuSooQN2",
+      "miner_uid": 58,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-05T08:14:30.873412",
+      "id": "fcfc61d9-b321-4c81-9834-af90f5d33de1"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5H6wMuf1ok87tGRdpMXXpb4SSJkuyaSVqSpRPrC9DNiB5ZG5",
+      "miner_id": "i9344MJPzXdIaCtqkQov",
+      "coldkey": "5DJPnGh95RErucUKoNgynpCue6y39sWK182D6PFrqfDVsC41",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5H6wMuf1ok87tGRdpMXXpb4SSJkuyaSVqSpRPrC9DNiB5ZG5",
+        "coldkey": "5DJPnGh95RErucUKoNgynpCue6y39sWK182D6PFrqfDVsC41",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "registration_time": "2025-07-08T07:39:09.257667",
+      "owner_firebase_uid": "E9ZPUc6OeWNNWQBZczPMkDEqlMa2",
+      "miner_uid": 92,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-08T07:39:09.257680",
+      "id": "fe925c97-071c-4987-bfe0-bbe271a4ec6d"
+    },
+    {
+      "metrics": null,
+      "hotkey": "5DobayS7FVaZ7z8mczdWXKjfXbToqAYhSoZwGrArqYBAgWkr",
+      "miner_id": "pfFo5VFeOkx7705bHmKt",
+      "registration_time": "2025-07-03T14:36:49.493120",
+      "network_info": {
+        "subnet_uid": 49,
+        "hotkey": "5DobayS7FVaZ7z8mczdWXKjfXbToqAYhSoZwGrArqYBAgWkr",
+        "coldkey": "5Hm8bVFkLv3hLfedAg7kLn6R5Ey1iYhG5AjzoXDUj4yEu4JC",
+        "stake_from_hotkey": 0,
+        "registration_block": null
+      },
+      "coldkey": "5Hm8bVFkLv3hLfedAg7kLn6R5Ey1iYhG5AjzoXDUj4yEu4JC",
+      "owner_firebase_uid": "niJCb5iOehNpeOHRsE99TMLGKk03",
+      "miner_uid": 251,
+      "settings": {
+        "subnet_uid": 49
+      },
+      "last_updated": "2025-07-03T14:36:49.493133",
+      "id": "ffda60b0-fdc2-47be-8435-3cd2a25dd37b"
+    },
+    {
+      "bittensor_registration": {
+        "miner_uid": 58,
+        "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+        "hotkey": "5CJZvUbGrbCHHCUP2mfhuH3ZbtpZL5WV7QU7J5EWgr9LBXnb"
+      },
+      "id": "wQKxyqzVTF8RBl40iGvE"
+    },
+    {
+      "bittensor_registration": {
+        "miner_uid": 156,
+        "coldkey": "5HnGVPaMsKNh5LpqxX7aQjDpKkhLFH9iaYVqZEDwuF8nMXER",
+        "hotkey": "5DWtQVYJ9a21FuGeizQivfRQXuWkT7ZWFBpmmgTrL5XoTQ6Y"
+      },
+      "id": "wYW1EJMtScW8nRK89aDj"
+    }
+  ],
+  "count": 106
+}
